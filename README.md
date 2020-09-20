@@ -1,5 +1,7 @@
 # Cashback Solution - Grupo Boticário
 
+***Código disponibilizado apenas para os avaliadores***
+
 ![](https://i.ibb.co/Ydf2JTM/GBLogo.jpg)
 
 # 0. [TL;DR]
@@ -8,8 +10,6 @@
 * Acesse o diretório onde está a Solução/GBCashback.API
 * Execute o comando "dotnet run", e pronto. Sua API já está sendo executada no endereço: https://localhost:5001
 * Caso deseje ver a documentação, acessar: https://localhost:5001/swagger
-
-* ***Código disponibilizado apenas para os avaliadores***
 
 ![](https://i.ibb.co/TH1rfCy/5h-Wp-FDj8s8.gif)
 
